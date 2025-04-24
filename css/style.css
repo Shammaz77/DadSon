@@ -1,10 +1,13 @@
+
 @charset "UTF-8";
 .portfolio-single-content .gallery-item {
   height: auto;
   position: initial; }
+  @import url('https://fonts.googleapis.com/css2?family=Manjari:wght@100;400;700&display=swap');
 
 /*------------------------------------------------------*/
 /*---------------------- 11. PORTFOLIO SIMPLE GALLERY----------------------*/
+
 .simple_gallery {
   margin: 100px 0 10px; }
   .simple_gallery h1, .simple_gallery h2, .simple_gallery h3, .simple_gallery h4, .simple_gallery h5, .simple_gallery h6 {
